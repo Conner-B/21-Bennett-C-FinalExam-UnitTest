@@ -1,0 +1,5 @@
+Recommended ordered stops:
+1. Add conditional statement for negative number.
+2. Add conditional statement for number larger then 1000.
+3. construct test cases for negative number implementation.
+4. construct test cases for larger number implementation.
